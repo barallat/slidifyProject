@@ -54,15 +54,15 @@ revealjs:
 ## ... and it can generate cool plots
 
 
-<iframe src=' assets/fig/plot.html ' scrolling='no' frameBorder='0' seamless class='rChart nvd3 ' id=iframe- populationImpact ></iframe> <style>iframe.rChart{ width: 100%; height: 400px;}</style>
+<iframe src=' figure/plot.html ' scrolling='no' frameBorder='0' seamless class='rChart nvd3 ' id=iframe- populationImpact ></iframe> <style>iframe.rChart{ width: 100%; height: 400px;}</style>
 
 
 --- .custom
 
 ## Are you interested?
 
-- visit us on shinyapps.io [(bit.ly/1kLwP06)](http://bit.ly/1kLwP06)
-- fork on GitHub ([bit.ly/1nrtceI](http://bit.ly/1nrtceI))
+- visit us on shinyapps.io [https://barallat.shinyapps.io/ShinyAppliclation/](https://barallat.shinyapps.io/ShinyAppliclation)
+- fork on GitHub [https://github.com/barallat/DDP-Shiny](https://github.com/barallat/DDP-Shiny)
 -  enroll on [Coursera Data Science Specialization](https://www.coursera.org/specialization/jhudatascience/1) and learn how to build your own
 
 
